@@ -36,7 +36,7 @@
 
 <h3>Cloning</h3>
 
-Como clonar esse reporsitório
+Como clonar esse repositório
 
 ```bash
 git clone https://github.com/CadeOLink/calculador-js.git
@@ -44,7 +44,7 @@ git clone https://github.com/CadeOLink/calculador-js.git
 
 <h3>Starting</h3>
 
-Como rodar essa reporsitório
+Como rodar essa repositório
 
 ```bash
 cd calculador-js
