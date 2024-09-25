@@ -39,7 +39,7 @@
 Como clonar esse reporsitório
 
 ```bash
-git clone your-project-url-in-github
+git clone https://github.com/CadeOLink/calculador-js.git
 ```
 
 <h3>Starting</h3>
@@ -47,8 +47,8 @@ git clone your-project-url-in-github
 Como rodar essa reporsitório
 
 ```bash
-cd project-name
-npm some-command-to-run
+cd calculador-js
+Alt+L Alt+O em index.html
 ```
 
 <h2 id="colab">🤝 Colaboradores</h2>
